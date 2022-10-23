@@ -14,7 +14,7 @@
   "main": "./lib/retire.js",
   "dependencies": {
     "ansi-colors": "^4.1.1",
-    "commander": "2.5.x",
+    "commander": "2.20.3",
     "proxy-agent": "^5.0.0",
     "read-installed": "^4.0.3",
     "uuid": "^8.3.2",
